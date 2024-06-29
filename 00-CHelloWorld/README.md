@@ -1,3 +1,3 @@
 # TP0
 
-gcc
+Compilador C11
